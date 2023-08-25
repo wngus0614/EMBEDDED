@@ -1,0 +1,10 @@
+C:\웹임베디드과정\C#\이주현\bin\Debug\이주현.exe.config
+C:\웹임베디드과정\C#\이주현\bin\Debug\이주현.exe
+C:\웹임베디드과정\C#\이주현\bin\Debug\이주현.pdb
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.csproj.AssemblyReference.cache
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.Form1.resources
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.Properties.Resources.resources
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.csproj.GenerateResource.cache
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.csproj.CoreCompileInputs.cache
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.exe
+C:\웹임베디드과정\C#\이주현\obj\Debug\이주현.pdb
